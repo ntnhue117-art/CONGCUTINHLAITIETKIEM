@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-
+st.image("logo.jpg.jgp")
 # =========================
 # CẤU HÌNH TRANG
 # =========================
